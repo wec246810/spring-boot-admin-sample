@@ -17,7 +17,7 @@ import org.thymeleaf.templatemode.TemplateMode;
 import java.nio.charset.StandardCharsets;
 
 /**
- * @author wangqm-b
+ * @author Y.S.K
  * @create 2018/8/10
  */
 @Configuration
